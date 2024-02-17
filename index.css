@@ -1,0 +1,135 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+
+{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+  background-color: #ceb10d;
+  background: rgb(93,236,197);
+background: linear-gradient(0deg, rgba(93,236,197,1) 0%, rgba(154,34,195,1) 100%);
+
+  background: rgb(2,0,36); background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 11%, rgba(0,212,255,1) 100%);
+    color: white;
+    height: 150px;
+}
+.logo-container img{
+    max-height: fit-content;
+    max-width:fit-content ;
+}
+.logo{
+    width: 210px;
+   height: 150px;
+}
+.nav-items ul{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    font-size: 24px;
+    margin-right: 67px 
+
+}
+.nav-items{
+ margin-top: 20px;
+ 
+}
+.nav-items ul li{
+   
+    padding: 10px;
+    margin: 10px;
+    list-style: none;
+    
+}
+.nav-items ul li a{
+    text-decoration: none;
+}
+
+ .logbtn{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.nav-items ul li:hover{
+    cursor: pointer;
+}
+.res-card{
+    width: 290px;
+    margin: 9px 9px 9px 9px;
+    padding: 0px 0px 3px 3px;
+}
+.search{
+    padding: 10px;
+}
+.res-logo{
+    
+    width: 100%;
+}
+.res-card:hover{
+    border: 1px solid black;
+    cursor: pointer;
+}
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.btn{
+    background-color: #b5b0c5;
+    border-radius: 6px;
+    margin: 10px 10px;
+}
+
+.btn:hover{
+    cursor: pointer;
+    
+}
+.dummy-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  
+  .dummy-card {
+    width: 290px;
+    height:400px ;
+    background-color: #ccc;
+    margin: 10px;
+    margin: 9px 9px 9px 9px;
+  }
+  .filter-btn{
+    display: flex;
+  }
+  .inputbox{
+    margin-left: 15px;
+  }*/
