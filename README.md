@@ -1,6 +1,6 @@
-# Food Wallh - Food Ordering App
+# Food Wallah - Food Ordering App
 
-Food Wallh is a responsive React application that enables users to browse various food items from Swiggy's live API, add them to their cart, and proceed with orders.
+Food Wallah is a responsive React application that enables users to browse various food items from Swiggy's live API, add them to their cart, and proceed with orders.
 
 ![Screenshot 2024-02-17 195338](https://github.com/amitanshu3/Food-Wallah/assets/144086900/6d714ad7-8bd7-4325-88af-b627738f481b)
 
@@ -35,7 +35,7 @@ These instructions will help you set up the project on your local machine for de
 1. Clone the repository.
 
    ```bash
-   git clone https://github.com/amitanshu3/food-wallh.git
+   git clone https://github.com/amitanshu3/food-wallah.git
 
 2.Navigate into the project directory.
  cd food-wallah
