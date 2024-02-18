@@ -46,9 +46,11 @@ These instructions will help you set up the project on your local machine for de
 
 
 ## Built With
-- React - JavaScript library for building user interfaces.
-- Parcel - Blazing fast, zero configuration web application bundler.
+- [React](https://reactjs.org/) - JavaScript library for building user interfaces.
+- [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler.
 - Swiggy's Live API - Used for educational purposes, providing data on food items and details.
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
+
 ## Contact
 For any inquiries or support, please contact amitanshubehura@gmail.com
 
