@@ -49,7 +49,7 @@ These instructions will help you set up the project on your local machine for de
 - React - JavaScript library for building user interfaces.
 - Parcel - Blazing fast, zero configuration web application bundler.
 - Swiggy's Live API - Used for educational purposes, providing data on food items and details.
-##Contact
+## Contact
 For any inquiries or support, please contact amitanshubehura@gmail.com
 
 
